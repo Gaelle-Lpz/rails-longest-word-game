@@ -1,0 +1,15 @@
+
+
+.letter {
+  list-style: none;
+  background-color: rgb(44, 39, 61);
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+  text-align: center;
+  padding-top: 16px;
+  margin: 8px;
+  font-size: 32px;
+  color: white;
+  box-shadow: rgba(0, 0, 0, 0.15) 2.95px 2.95px 3.6px;
+}
